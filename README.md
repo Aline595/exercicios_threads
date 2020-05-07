@@ -1,0 +1,2 @@
+# exercicios_threads
+Note que a classe Corredor gera um valor aleatório entre 0 e 50 para simbolizar a distância percorrida a cada iteração. Escreva um construtor nela que recebe como parâmetro (além da Thread para fazer o join) um número inteiro que representa o valor máximo, ou seja, substitui o valor 50,que está fixo. Assim, ao construir os corredores, entregue para cada construtor um valor máximo que indique a sua probabilidade de ganho. Nos exemplos da aula, o piloto Senna, por exemplo, deve ter um valor bastante alto quando comparado aos demais.
